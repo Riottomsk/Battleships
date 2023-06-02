@@ -1,0 +1,6 @@
+{
+  "boardSize": 10,
+  "shipSizes": [ 5, 4, 3, 3, 2 ],
+  "numShips": 5,
+  "numGuesses": 50
+}
